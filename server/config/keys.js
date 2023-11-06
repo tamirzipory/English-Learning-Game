@@ -1,4 +1,4 @@
-dbPassword = 'mongodb+srv://tamir_zipory:tamir0202@tamirproject-qbxia.mongodb.net/test?retryWrites=true&w=majority';
+dbPassword = 'mongodb+srv://tamir_zipory:#your_DB_password#@tamirproject-qbxia.mongodb.net/test?retryWrites=true&w=majority';
 
 module.exports = {
     mongoURI: dbPassword
